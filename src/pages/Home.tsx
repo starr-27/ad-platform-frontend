@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Row, Col, Statistic } from 'antd';
 import { DollarOutlined, ShoppingCartOutlined, FileTextOutlined, HistoryOutlined } from '@ant-design/icons';
-
+//首页
 const Home: React.FC = () => {
   return (
     <div>
